@@ -1,0 +1,54 @@
+h1
+{
+color:purple;font-size:15;font-family:Baskerville;background-color:black;border: 5px solid black;
+}
+
+ol
+{
+color:yellow;font-size:25;font-family:Comic sans ms;
+}
+
+li:hover
+{
+color:blue;font-size:25;font-family:Comic sans ms;
+}
+
+div
+{
+background-color:#99CCFF;
+height:550px;
+width:700px;
+position:relative;
+border: 5px solid yellow
+}
+
+p
+{
+color:#CC3300;font-size:22;font-family:Courier;
+}
+
+a
+{
+color:white;font-size:20;font-family:Comic sans ms;
+}
+
+a:hover
+{
+color:red;font-size:20;font-family:Comic sans ms;
+}
+
+img
+{
+border:10px solid black;
+}
+
+button
+{
+background-color:#9933FF
+;
+color: red;
+width:150px;
+height:40px;
+border:5px solid #FFFF00;
+border-radius: 15px;
+}
